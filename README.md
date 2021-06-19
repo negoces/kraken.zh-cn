@@ -16,4 +16,11 @@ Kraken 中文补丁
 
 ## 未翻译字段
 
-+ line 472 "FuzzyFinder-ViewReleaseNotesKeywords": "patch notes changelog",
+- line 472 "FuzzyFinder-ViewReleaseNotesKeywords": "patch notes changelog",
+- line 503 "LeftPanelAddUserForkRow-YouHaveAFork": "You have a fork of this repo",
+- line 504 "LeftPanelAddUserForkRow-AddRemoteButtonLabel": "Add",
+- line 505 "LeftPanelAddUserForkRow-AddThisFork": "Add this fork as a remote",
+- line 629 "RewordCommitMessageHelperText": "Rewording this commit message will cause {0} commits to be rebased.",
+- line 671 "OrderChipotleButtonTooltip": "Chipotle Thursday",
+- line 778 "ContextMenu-RebaseXChildrenOfShaInteractively": "Interactive Rebase {0} children of {1}",
+- line 953

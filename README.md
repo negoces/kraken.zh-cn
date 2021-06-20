@@ -19,3 +19,8 @@ Kraken 中文补丁
 - line 671 "OrderChipotleButtonTooltip": "Chipotle Thursday",
 - line 953
 - line 1606
+- line 1784
+
+## 纠错
+
+文件中不少地方为谷歌机翻，欢迎大佬来纠正。
